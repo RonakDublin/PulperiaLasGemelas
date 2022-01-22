@@ -1,0 +1,11 @@
+{
+    "app_id": "pos-aipio",
+    "config_version": 20210101,
+    "name": "POS",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "development",
+    "allowed_request_origins": [
+        "https://citrine-aspiring-psychology.glitch.me"
+    ]
+}
